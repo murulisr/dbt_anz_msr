@@ -16,4 +16,4 @@ select
         c_comment as comment
 from sourcedb.customers
 
-select * from customers
+select * from customer
